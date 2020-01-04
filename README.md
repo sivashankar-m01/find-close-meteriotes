@@ -8,6 +8,6 @@ First install pipenv and then:
 
 ```
 pipenv install
-pipenv run "python find_meteors.py"
+pipenv run "python meteros/find_meteors.py"
 
 ```
