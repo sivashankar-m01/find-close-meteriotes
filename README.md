@@ -2,5 +2,12 @@
 This is my first GitHub Project
 
 ## Running
+This project requires Python3 and the requests package
 
-`python find_meteors.py`
+First install pipenv and then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+
+```
